@@ -4,6 +4,7 @@ setting up firebase account and
 
 replace your project code in below code at main.js
 
+```
 const firebaseConfig = {
   apiKey: "AIzaSyD7XU_zS6bUUBXQxH9RR2np7tpaN4iMDEk",
   authDomain: "vue-firebase-chat-73d98.firebaseapp.com",
@@ -12,6 +13,8 @@ const firebaseConfig = {
   messagingSenderId: "385836997604",
   appId: "1:385836997604:web:f95869ec4d9ed2944dc5f1"
 };
+
+```
 
 
 ## Project setup
